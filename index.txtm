@@ -7,28 +7,30 @@
 <div id="article" class="post">
 
 <div style="text-align: center">
-## The Haskell Helpline  
-**Justin Bailey**  
+# The Haskell Helpline  
+<Br><br>
 **(503) 732-0681**   
-**Monday - Friday, Noon to 1 P.M., PDT (i.e., Los Angeles/Seattle Time).**  
-*Replies to voice mails will be given via email.*
+**Monday - Friday, Noon to 1 P.M., PDT.**   
+<br><br>
+**Justin Bailey** 
 </div>
 
+
+<br><br>
 Call me at The Haskell Helpline to get a little help with your
 Haskell. Each caller gets up to 15 minutes of my time. Calls will
 not be recorded but I will be posting about them. I will leave out as 
 much personally identifiable information as I can, but I can't make
 any guarantees. There is no charge for this service.
+<br><br>
 
-In order to have the best experience, please follow these guidelines:
+In order to have the best experience, please follow these guidelines:<br><Br>
 
   * Have example code posted online. I suggest using [GitHub's Gists](https://gist.github.com/)
-  or [HPaste](http://hpaste.org). You can also [email me](mailto:haskell_help@codeslower.com) at `haskell_help@codeslower.com`.
-
+  or [HPaste](http://hpaste.org). You can also [email me](mailto:haskell_help@codeslower.com) at <tt>haskell_help@codeslower.com</tt>.
   * Prepare a minimal working example when possible.
-
-  * I can't answer platform-specific questions (unless they are about Windows), though I am
-  happy to guess.
+  * I can't answer platform-specific questions (unless they are about Windows), though I am happy to guess.
+<br><br>
 
 <div style="text-align: center">
 <object type="application/x-shockwave-flash" data="https://clients4.google.com/voice/embed/webCallButton" width="230" height="85"><param name="movie" value="https://clients4.google.com/voice/embed/webCallButton" /><param name="wmode" value="transparent" /><param name="FlashVars" value="id=e364bbbfb794330c2b07ef2c1329dccbc90d9567&style=0" /></object>
